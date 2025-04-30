@@ -3,54 +3,54 @@
   <channel>
     <title>Noticias Tech Diario</title>
     <link>https://agonperg.github.io/Lenguaje-de-marcas/rss.xml</link>
-    <atom:link href="https://agonperg.github.io/Lenguaje-de-marcas/rss.xml" rel="self" type="application/rss+xml" />
     <description>Canal de noticias diarias sobre tecnología, móviles y gadgets.</description>
     <language>es-es</language>
-    <pubDate>Tue, 29 Apr 2025 12:00:00 +0000</pubDate>
+    <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+    <atom:link href="https://agonperg.github.io/Lenguaje-de-marcas/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>El sexting entre los más jóvenes refleja el peso de la moral tradicional de cada país</title>
       <link>https://elpais.com/tecnologia/2025-04-18/el-sexting-entre-los-mas-jovenes-sigue-reflejando-el-peso-de-la-moral-tradicional-de-cada-pais.html</link>
-      <guid>https://elpais.com/tecnologia/2025-04-18/el-sexting-entre-los-mas-jovenes-sigue-reflejando-el-peso-de-la-moral-tradicional-de-cada-pais.html</guid>
-      <description>Análisis sobre cómo el sexting adolescente depende de las normas morales de cada país.</description>
-      <author>Noticias Tech Diario <contacto@noticiastechdiario.com></author>
+      <description>Análisis sobre cómo el sexting en adolescentes sigue dependiendo de las normas sociales y morales de cada país.</description>
+      <author>Redacción Tech Diario &lt;contacto@noticiastechdiario.com&gt;</author>
       <pubDate>Fri, 18 Apr 2025 10:00:00 +0000</pubDate>
+      <guid>https://elpais.com/tecnologia/2025-04-18/el-sexting-entre-los-mas-jovenes</guid>
     </item>
 
     <item>
-      <title>Del toque de queda digital al bloqueo de apps: cómo protegen los expertos en tecnología a sus hijos</title>
+      <title>Del toque de queda digital al bloqueo de apps</title>
       <link>https://elpais.com/tecnologia/2025-04-23/del-toque-de-queda-digital-al-bloqueo-de-apps-como-protegen-los-expertos-en-tecnologia-a-sus-hijos-en-internet.html</link>
-      <guid>https://elpais.com/tecnologia/2025-04-23/del-toque-de-queda-digital-al-bloqueo-de-apps-como-protegen-los-expertos-en-tecnologia-a-sus-hijos-en-internet.html</guid>
-      <description>Métodos de expertos para proteger a los niños de los riesgos digitales.</description>
-      <author>Noticias Tech Diario <contacto@noticiastechdiario.com></author>
+      <description>Expertos en tecnología comparten sus métodos para proteger a sus hijos de los peligros digitales actuales.</description>
+      <author>Redacción Tech Diario &lt;contacto@noticiastechdiario.com&gt;</author>
       <pubDate>Wed, 23 Apr 2025 12:00:00 +0000</pubDate>
+      <guid>https://elpais.com/tecnologia/2025-04-23/toque-digital</guid>
     </item>
 
     <item>
-      <title>Ladrones de datos online: así funciona el gran bazar del cibercrimen</title>
+      <title>Ladrones de datos online: así funciona el bazar del cibercrimen</title>
       <link>https://elpais.com/tecnologia/2025-04-22/ladrones-de-datos-online-asi-funciona-el-gran-bazar-del-cibercrimen.html</link>
-      <guid>https://elpais.com/tecnologia/2025-04-22/ladrones-de-datos-online-asi-funciona-el-gran-bazar-del-cibercrimen.html</guid>
-      <description>Así operan las redes de cibercriminales en internet.</description>
-      <author>Noticias Tech Diario <contacto@noticiastechdiario.com></author>
+      <description>Una mirada a las redes de cibercrimen y cómo los ladrones de datos operan en internet.</description>
+      <author>Redacción Tech Diario &lt;contacto@noticiastechdiario.com&gt;</author>
       <pubDate>Tue, 22 Apr 2025 14:00:00 +0000</pubDate>
+      <guid>https://elpais.com/tecnologia/2025-04-22/cibercrimen</guid>
     </item>
 
     <item>
-      <title>Juli Ponce: "El 100% de las máquinas de IA son psicópatas, los humanos solo un 1%"</title>
+      <title>Juli Ponce: "El 100% de las máquinas de IA son psicópatas"</title>
       <link>https://elpais.com/tecnologia/2025-04-19/juli-ponce-jurista-el-100-de-las-maquinas-de-ia-son-psicopatas-los-humanos-solo-un-1.html</link>
-      <guid>https://elpais.com/tecnologia/2025-04-19/juli-ponce-jurista-el-100-de-las-maquinas-de-ia-son-psicopatas-los-humanos-solo-un-1.html</guid>
-      <description>Impacto de la inteligencia artificial desde una perspectiva ética.</description>
-      <author>Noticias Tech Diario <contacto@noticiastechdiario.com></author>
+      <description>Juli Ponce habla sobre el impacto de la inteligencia artificial y su capacidad para actuar de forma emocionalmente insensible.</description>
+      <author>Redacción Tech Diario &lt;contacto@noticiastechdiario.com&gt;</author>
       <pubDate>Sat, 19 Apr 2025 11:00:00 +0000</pubDate>
+      <guid>https://elpais.com/tecnologia/2025-04-19/ia-psicopatas</guid>
     </item>
 
     <item>
-      <title>Otra noticia sobre sexting en jóvenes</title>
-      <link>https://elpais.com/tecnologia/2025-04-18/el-sexting-entre-los-mas-jovenes-sigue-reflejando-el-peso-de-la-moral-tradicional-de-cada-pais.html</link>
-      <guid>https://elpais.com/tecnologia/2025-04-18/el-sexting-entre-los-mas-jovenes-sigue-reflejando-el-peso-de-la-moral-tradicional-de-cada-pais.html</guid>
-      <description>Otro artículo que profundiza en el sexting adolescente y sus condicionantes sociales.</description>
-      <author>Noticias Tech Diario <contacto@noticiastechdiario.com></author>
-      <pubDate>Fri, 18 Apr 2025 10:00:00 +0000</pubDate>
+      <title>Cómo proteger los datos personales en internet</title>
+      <link>https://elpais.com/tecnologia/2025-04-25/proteger-datos-personales-internet.html</link>
+      <description>Consejos y técnicas para salvaguardar la privacidad digital en un mundo hiperconectado.</description>
+      <author>Redacción Tech Diario &lt;contacto@noticiastechdiario.com&gt;</author>
+      <pubDate>Fri, 25 Apr 2025 13:00:00 +0000</pubDate>
+      <guid>https://elpais.com/tecnologia/2025-04-25/proteger-datos</guid>
     </item>
 
   </channel>
